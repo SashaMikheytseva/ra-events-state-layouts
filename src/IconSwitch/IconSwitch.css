@@ -1,0 +1,9 @@
+.switch {
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 30px;
+}
+
+.material-icons {
+    color: grey;
+}
